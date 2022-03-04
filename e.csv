@@ -1,155 +1,224 @@
 Reporter,Partner,Trade Value
-Australia,"Areas, nes",35854
-Australia,Brazil,622
-Australia,China,346641
-Australia,Denmark,215665
-Australia,Fmr Fed. Rep. of Germany,3634
-Australia,France,1175617
-Australia,Indonesia,73120
-Australia,Japan,3059822
-Australia,Malaysia,426415
-Australia,Netherlands,102728
-Australia,New Zealand,2772
-Australia,Philippines,3289
-Australia,Poland,49311
-Australia,Rep. of Korea,669748
-Australia,Saudi Arabia,632194
-Australia,Singapore,556482
-Australia,Spain,217101
-Australia,Switzerland,1240
-Australia,Thailand,139711
-Australia,USA,282464
-Australia,United Kingdom,737695
-Australia,World,8732125
-Finland,"Areas, nes",534
-Finland,Belgium-Luxembourg,19798
-Finland,Denmark,1582856
-Finland,Fmr Dem. Rep. of Germany,2241523
-Finland,Fmr Fed. Rep. of Germany,425092
-Finland,Fmr USSR,3885987
-Finland,France,47932
-Finland,Netherlands,14395
-Finland,Norway,9873
-Finland,Poland,23645
-Finland,Sweden,13213
-Finland,USA,1097
-Finland,United Kingdom,1259870
-Finland,World,9525815
-Fmr Fed. Rep. of Germany,Austria,607000
-Fmr Fed. Rep. of Germany,Belgium-Luxembourg,26472000
-Fmr Fed. Rep. of Germany,Bulgaria,76000
-Fmr Fed. Rep. of Germany,Canada,42000
-Fmr Fed. Rep. of Germany,China,1000
-Fmr Fed. Rep. of Germany,Czechoslovakia,4815000
-Fmr Fed. Rep. of Germany,Denmark,672000
-Fmr Fed. Rep. of Germany,Fmr Yugoslavia,2599000
-Fmr Fed. Rep. of Germany,France,36821000
-Fmr Fed. Rep. of Germany,Hungary,2999000
-Fmr Fed. Rep. of Germany,Israel,1000
-Fmr Fed. Rep. of Germany,Italy,124000
-Fmr Fed. Rep. of Germany,Japan,73000
-Fmr Fed. Rep. of Germany,Netherlands,12293000
-Fmr Fed. Rep. of Germany,Norway,10000
-Fmr Fed. Rep. of Germany,Poland,7360000
-Fmr Fed. Rep. of Germany,Romania,1807000
-Fmr Fed. Rep. of Germany,Spain,337000
-Fmr Fed. Rep. of Germany,Switzerland,1431000
-Fmr Fed. Rep. of Germany,Thailand,1000
-Fmr Fed. Rep. of Germany,USA,42000
-Fmr Fed. Rep. of Germany,United Kingdom,1248000
-Fmr Fed. Rep. of Germany,World,99844000
-Fmr Fed. Rep. of Germany,Zimbabwe,13000
-Greece,"Areas, nes",126
-Greece,Austria,10485
-Greece,Belgium-Luxembourg,18123
-Greece,Denmark,15877
-Greece,Egypt,320766
-Greece,Fmr Fed. Rep. of Germany,1906
-Greece,Fmr Yugoslavia,180373
-Greece,France,154121
-Greece,Hungary,10473
-Greece,Ireland,5343
-Greece,Italy,3688
-Greece,Netherlands,184278
-Greece,Spain,65250
-Greece,USA,60321
-Greece,United Kingdom,10352
-Greece,World,1041482
-Iceland,"Areas, nes",979
-Iceland,Belgium-Luxembourg,232745
-Iceland,Denmark,26765
-Iceland,Fmr Fed. Rep. of Germany,5860
-Iceland,France,14310
-Iceland,Italy,7960
-Iceland,Netherlands,7011
-Iceland,United Kingdom,57360
-Iceland,World,352990
-India,"Areas, nes",130
-India,Fmr Dem. Rep. of Germany,16332
-India,Japan,15523
-India,United Arab Emirates,3143589
-India,United Kingdom,113908
-India,World,3289482
-Japan,China,39465
-Japan,Denmark,2161
-Japan,Fmr Fed. Rep. of Germany,37304
-Japan,France,1554306
-Japan,Indonesia,1247915
-Japan,Mexico,2013
-Japan,Netherlands,1258544
-Japan,"Other Asia, nes",76755978
-Japan,Pakistan,4807
-Japan,Rep. of Korea,91389590
-Japan,USA,135482
-Japan,United Kingdom,42712
-Japan,World,172470277
-Portugal,"Areas, nes",859
-Portugal,Belgium-Luxembourg,8699
-Portugal,Fmr Fed. Rep. of Germany,11503
-Portugal,France,63812
-Portugal,Italy,960
-Portugal,Netherlands,30875
-Portugal,Spain,268772
-Portugal,United Kingdom,456189
-Portugal,World,841669
-Rep. of Korea,"Areas, nes",24501
-Rep. of Korea,Belgium-Luxembourg,2631
-Rep. of Korea,"China, Hong Kong SAR",177139
-Rep. of Korea,Fmr Fed. Rep. of Germany,40207
-Rep. of Korea,France,1368529
-Rep. of Korea,India,1108051
-Rep. of Korea,Indonesia,4293529
-Rep. of Korea,Japan,408656
-Rep. of Korea,Saudi Arabia,1351214
-Rep. of Korea,Singapore,5802
-Rep. of Korea,Switzerland,10899
-Rep. of Korea,USA,89550
-Rep. of Korea,United Kingdom,210475
-Rep. of Korea,World,9091183
-Switzerland,"Areas, nes",642
-Switzerland,Austria,48412
-Switzerland,Belgium-Luxembourg,289696
-Switzerland,Brazil,990
-Switzerland,Canada,9441
-Switzerland,Czechoslovakia,6826
-Switzerland,Denmark,163616
-Switzerland,Fmr Dem. Rep. of Germany,674945
-Switzerland,Fmr Fed. Rep. of Germany,5385046
-Switzerland,France,3213221
-Switzerland,Hungary,313347
-Switzerland,Italy,9970943
-Switzerland,Japan,3311
-Switzerland,Netherlands,46534
-Switzerland,Spain,43305
-Switzerland,Sweden,3634
-Switzerland,USA,9010
-Switzerland,United Kingdom,5810
-Switzerland,World,20188728
-Thailand,"Areas, nes",1393
-Thailand,France,554459
-Thailand,Japan,23080
-Thailand,Malaysia,83882
-Thailand,Netherlands,58702
-Thailand,Singapore,228471
-Thailand,USA,14276
-Thailand,World,964263
+Australia,"Areas, nes",463
+Australia,China,12443
+Australia,"China, Hong Kong SAR",33928
+Australia,Fiji,5125
+Australia,Indonesia,1717
+Australia,Kiribati,3814
+Australia,Malaysia,1604
+Australia,Nauru,162422
+Australia,New Caledonia,133135
+Australia,New Zealand,19389
+Australia,"Oceania, nes",1332
+Australia,Papua New Guinea,1915554
+Australia,Philippines,18959
+Australia,Singapore,80830
+Australia,Solomon Isds,10550
+Australia,Vanuatu,77436
+Australia,World,2478701
+Finland,"Areas, nes",30
+Finland,Fmr USSR,332978
+Finland,Mozambique,11326
+Finland,Norway,123003
+Finland,Sweden,95874
+Finland,USA,5763
+Finland,United Rep. of Tanzania,1116
+Finland,World,570090
+Fmr Fed. Rep. of Germany,Angola,32000
+Fmr Fed. Rep. of Germany,Australia,4000
+Fmr Fed. Rep. of Germany,Austria,1438000
+Fmr Fed. Rep. of Germany,Belgium-Luxembourg,9463000
+Fmr Fed. Rep. of Germany,Bolivia (Plurinational State of),1000
+Fmr Fed. Rep. of Germany,Cameroon,43000
+Fmr Fed. Rep. of Germany,Canada,3000
+Fmr Fed. Rep. of Germany,Chile,19000
+Fmr Fed. Rep. of Germany,China,32000
+Fmr Fed. Rep. of Germany,Congo,189000
+Fmr Fed. Rep. of Germany,Czechoslovakia,17000
+Fmr Fed. Rep. of Germany,Denmark,2649000
+Fmr Fed. Rep. of Germany,Djibouti,4000
+Fmr Fed. Rep. of Germany,Egypt,4018000
+Fmr Fed. Rep. of Germany,Finland,267000
+Fmr Fed. Rep. of Germany,Fmr Arab Rep. of Yemen,360000
+Fmr Fed. Rep. of Germany,Fmr Dem. Yemen,6000
+Fmr Fed. Rep. of Germany,Fmr Sudan,210000
+Fmr Fed. Rep. of Germany,Fmr Yugoslavia,2000
+Fmr Fed. Rep. of Germany,France,4700000
+Fmr Fed. Rep. of Germany,Gabon,390000
+Fmr Fed. Rep. of Germany,Ghana,1052000
+Fmr Fed. Rep. of Germany,Greece,3000
+Fmr Fed. Rep. of Germany,Guinea-Bissau,29000
+Fmr Fed. Rep. of Germany,Hungary,6000
+Fmr Fed. Rep. of Germany,India,10000
+Fmr Fed. Rep. of Germany,Ireland,61000
+Fmr Fed. Rep. of Germany,Israel,16000
+Fmr Fed. Rep. of Germany,Italy,114000
+Fmr Fed. Rep. of Germany,Jamaica,54000
+Fmr Fed. Rep. of Germany,Jordan,104000
+Fmr Fed. Rep. of Germany,Kenya,31000
+Fmr Fed. Rep. of Germany,Kuwait,24000
+Fmr Fed. Rep. of Germany,Libya,5000
+Fmr Fed. Rep. of Germany,Maldives,1000
+Fmr Fed. Rep. of Germany,Netherlands,97621000
+Fmr Fed. Rep. of Germany,New Zealand,2000
+Fmr Fed. Rep. of Germany,Nigeria,4099000
+Fmr Fed. Rep. of Germany,Norway,5012000
+Fmr Fed. Rep. of Germany,Oman,647000
+Fmr Fed. Rep. of Germany,"Other Asia, nes",8000
+Fmr Fed. Rep. of Germany,Pakistan,542000
+Fmr Fed. Rep. of Germany,Philippines,2000
+Fmr Fed. Rep. of Germany,Poland,3000
+Fmr Fed. Rep. of Germany,Qatar,589000
+Fmr Fed. Rep. of Germany,Rep. of Korea,59000
+Fmr Fed. Rep. of Germany,Saudi Arabia,3000
+Fmr Fed. Rep. of Germany,Sierra Leone,139000
+Fmr Fed. Rep. of Germany,Singapore,1000
+Fmr Fed. Rep. of Germany,So. African Customs Union,144000
+Fmr Fed. Rep. of Germany,Somalia,19000
+Fmr Fed. Rep. of Germany,Spain,129000
+Fmr Fed. Rep. of Germany,Sri Lanka,4000
+Fmr Fed. Rep. of Germany,Sweden,96000
+Fmr Fed. Rep. of Germany,Switzerland,2956000
+Fmr Fed. Rep. of Germany,Trinidad and Tobago,337000
+Fmr Fed. Rep. of Germany,Tunisia,54000
+Fmr Fed. Rep. of Germany,Turkey,66000
+Fmr Fed. Rep. of Germany,USA,10000
+Fmr Fed. Rep. of Germany,United Arab Emirates,651000
+Fmr Fed. Rep. of Germany,United Kingdom,13629000
+Fmr Fed. Rep. of Germany,Viet Nam,1000
+Fmr Fed. Rep. of Germany,World,152180000
+Greece,Algeria,5023267
+Greece,"Areas, nes",806
+Greece,Bahamas,671583
+Greece,Belgium-Luxembourg,3036582
+Greece,Canada,2769226
+Greece,Cyprus,175976
+Greece,Dominican Rep.,2276385
+Greece,Egypt,16945926
+Greece,Fmr Sudan,21992
+Greece,Ghana,934705
+Greece,Italy,28165878
+Greece,Kenya,359370
+Greece,Liberia,244161
+Greece,Libya,1397979
+Greece,Malta,208389
+Greece,Netherlands,1095500
+Greece,Nigeria,9944752
+Greece,Sierra Leone,206423
+Greece,Togo,1766443
+Greece,Turkey,3250588
+Greece,USA,40668904
+Greece,United Kingdom,8343420
+Greece,Venezuela,835555
+Greece,World,128343808
+Haiti,USA,599
+Haiti,World,599
+Iceland,Greenland,7311
+Iceland,World,7311
+India,Bangladesh,215504
+India,Kuwait,3441
+India,Nepal,2161012
+India,Sri Lanka,4010
+India,United Arab Emirates,5415
+India,World,2389382
+Japan,Australia,4441224
+Japan,Bangladesh,299049
+Japan,Canada,1129794
+Japan,Chile,65153
+Japan,China,293351
+Japan,"China, Hong Kong SAR",51981134
+Japan,Colombia,24244
+Japan,Costa Rica,67268
+Japan,Dem. People's Rep. of Korea,45132
+Japan,Ecuador,8328
+Japan,India,18944
+Japan,Indonesia,116498
+Japan,Kiribati,17007
+Japan,Malaysia,25672
+Japan,Myanmar,7445
+Japan,Nepal,145028
+Japan,New Caledonia,1650454
+Japan,New Zealand,2645
+Japan,Nigeria,4917
+Japan,"Other Asia, nes",708610
+Japan,Pakistan,136417
+Japan,Papua New Guinea,7157
+Japan,Philippines,162770
+Japan,Rep. of Korea,265694
+Japan,Saudi Arabia,5047988
+Japan,Singapore,11257149
+Japan,So. African Customs Union,34242
+Japan,Solomon Isds,7025
+Japan,Sri Lanka,141062
+Japan,Sweden,40042
+Japan,Syria,13753
+Japan,Thailand,25585
+Japan,US Misc. Pacific Isds,3254799
+Japan,USA,47039084
+Japan,United Arab Emirates,3582
+Japan,Viet Nam,294842
+Japan,World,128783088
+Portugal,Angola,58445
+Portugal,"Areas, nes",796
+Portugal,Bunkers,652
+Portugal,Cabo Verde,296455
+Portugal,Canada,444170
+Portugal,Congo,1676
+Portugal,France,11117
+Portugal,Ghana,21711
+Portugal,Guinea-Bissau,404217
+Portugal,Iceland,985
+Portugal,Mozambique,1437
+Portugal,Réunion,672733
+Portugal,Sao Tome and Principe,195571
+Portugal,Spain,5586256
+Portugal,USA,745373
+Portugal,United Kingdom,1364995
+Portugal,World,9806589
+Rep. of Korea,"Areas, nes",9482724
+Rep. of Korea,Australia,2641133
+Rep. of Korea,Canada,1393037
+Rep. of Korea,"China, Hong Kong SAR",16375622
+Rep. of Korea,Costa Rica,143447
+Rep. of Korea,Dominican Rep.,80248
+Rep. of Korea,Ecuador,20244
+Rep. of Korea,Fmr Pacific Isds,325211
+Rep. of Korea,Guinea,56505
+Rep. of Korea,Haiti,14736
+Rep. of Korea,Honduras,20244
+Rep. of Korea,India,2304867
+Rep. of Korea,Japan,89194768
+Rep. of Korea,Kiribati,32899
+Rep. of Korea,Nepal,4544340
+Rep. of Korea,New Zealand,83949
+Rep. of Korea,Nigeria,3012
+Rep. of Korea,"Other Asia, nes",828498
+Rep. of Korea,Pakistan,60197
+Rep. of Korea,Panama,60216
+Rep. of Korea,Papua New Guinea,3275814
+Rep. of Korea,Philippines,1542662
+Rep. of Korea,Samoa,38449
+Rep. of Korea,Singapore,751793
+Rep. of Korea,Solomon Isds,59775
+Rep. of Korea,Sri Lanka,2490
+Rep. of Korea,Tonga,103679
+Rep. of Korea,Trinidad and Tobago,10733
+Rep. of Korea,Turkey,68940
+Rep. of Korea,US Misc. Pacific Isds,942747
+Rep. of Korea,USA,12511774
+Rep. of Korea,United Kingdom,655
+Rep. of Korea,Vanuatu,21000
+Rep. of Korea,World,146996400
+Switzerland,"Areas, nes",4357
+Switzerland,Bahamas,1403
+Switzerland,Fmr Dem. Rep. of Germany,3989
+Switzerland,Fmr Fed. Rep. of Germany,1456559
+Switzerland,Fmr USSR,710
+Switzerland,France,625239
+Switzerland,Italy,26043
+Switzerland,Norway,513
+Switzerland,Philippines,50659
+Switzerland,So. African Customs Union,1109
+Switzerland,Spain,684
+Switzerland,United Kingdom,2861
+Switzerland,World,2174126
